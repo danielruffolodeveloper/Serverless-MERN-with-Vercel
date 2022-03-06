@@ -1,0 +1,26 @@
+{
+  "name": "serverless-mern-with-vercel",
+  "version": "1.0.0",
+  "description": "This repo is all about building a MERN stack application with Vercel Serverless functions. The idea is to allow the user to perform CRUD opperations on a Database through a set of serverless functions deployed on Vercel's \"Edge\" network.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielruffolodeveloper/Serverless-MERN-with-Vercel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+   "devDependencies": {
+    "@vercel/node": "^1.7.1"
+  },
+   "dependencies": {
+    "mongodb": "^3.5.9"
+  },
+  "bugs": {
+    "url": "https://github.com/danielruffolodeveloper/Serverless-MERN-with-Vercel/issues"
+  },
+  "homepage": "https://github.com/danielruffolodeveloper/Serverless-MERN-with-Vercel#readme"
+}
